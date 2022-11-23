@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Gilbert
+I'm currently studing on AGH University of Science and Technology in Krakow
+How to reach me:
+  - :email: guszczagilbert@gmail.com
+  - :bird: [My Twitter profile](https://twitter.com/GilbertGuszcza)
 
 <!--
 **Isdre/Isdre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
