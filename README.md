@@ -9,7 +9,10 @@ How to reach me:
 
 
 [Test GitHubPage](https://isdre.github.io)
+
 [Z forkowane repozytorium](https://github.com/Isdre/AvalonAssassin)
+
+[Artykuł na papers with code](https://paperswithcode.com/paper/training-an-assassin-ai-for-the-resistance)
 <!--
 **Isdre/Isdre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
