@@ -9,7 +9,7 @@ How to reach me:
 
 
 [Test GitHubPage](https://isdre.github.io)
-
+[Z forkowane repozytorium](https://github.com/Isdre/AvalonAssassin)
 <!--
 **Isdre/Isdre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
