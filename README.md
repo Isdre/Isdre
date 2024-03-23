@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Gilbert.
 
-I'm currently studing on AGH University of Science and Technology in Krakow.
+I'm currently studing on AGH University in Krakow.
 
 How to reach me:
   - :email: guszczagilbert@gmail.com
