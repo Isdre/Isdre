@@ -8,6 +8,11 @@ How to reach me:
   - 🔗: [LinkedIn's profile](https://www.linkedin.com/in/gilbert-guszcza-a9267a23b/)
   - :bird: [X's profile](https://twitter.com/GilbertGuszcza)
 
+I've been to a few game jams and this is the result:
+  - 🔨: [Kobaltowa przygoda](https://pitahaya-games.itch.io/kobaltowa-przygoda)
+  - 👽: [Demon zza lady](https://pitahaya-games.itch.io/demon-zza-lady)
+
+
 <!--
 [Test GitHubPage](https://isdre.github.io)
 
