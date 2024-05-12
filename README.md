@@ -6,7 +6,6 @@ I'm currently studing on AGH University of Krakow.
 How to reach me:
   - :email: guszczagilbert@gmail.com
   - 🔗: [LinkedIn's profile](https://www.linkedin.com/in/gilbert-guszcza-a9267a23b/)
-  - :bird: [X's profile](https://twitter.com/GilbertGuszcza)
 
 I've been to a few gamejams and this is the result:
   - 🔨: [Kobaltowa przygoda](https://pitahaya-games.itch.io/kobaltowa-przygoda)
