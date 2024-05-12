@@ -7,7 +7,7 @@ How to reach me:
   - :email: guszczagilbert@gmail.com
   - 🔗: [LinkedIn's profile](https://www.linkedin.com/in/gilbert-guszcza-a9267a23b/)
 
-I've been to a few gamejams and this is the result:
+I've been on a few gamejams and this is the result:
   - 🔨: [Kobaltowa przygoda](https://pitahaya-games.itch.io/kobaltowa-przygoda)
   - 👽: [Demon zza lady](https://pitahaya-games.itch.io/demon-zza-lady)
 
