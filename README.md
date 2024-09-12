@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Gilbert.
 
-I'm currently studing on AGH University of Krakow
+I'm currently studing at AGH University of Krakow
 ... and 🔭 I’m looking for job
 
 How to reach me:
