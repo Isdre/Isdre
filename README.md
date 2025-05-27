@@ -2,7 +2,9 @@
 My name is **Gilbert**.
 
 🎓 I'm currently studying at **AGH University of Krakow**  
+
 💼 I'm actively **looking for job opportunities** in game development, software engineering, or AI/ML
+
 🌱 Currently learning: Genetic Programming, Database Administration  
 
 ---
