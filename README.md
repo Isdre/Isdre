@@ -1,35 +1,19 @@
-### Hi there 👋
-My name is Gilbert.
+### Hi there 👋  
+My name is **Gilbert**.
 
-I'm currently studing at AGH University of Krakow
-... and 🔭 I’m looking for job
+🎓 I'm currently studying at **AGH University of Krakow**  
+💼 I'm actively **looking for job opportunities** in game development, software engineering, or AI/ML
+🌱 Currently learning: Genetic Programming, Database Administration  
+---
 
-How to reach me:
-  - :email: guszczagilbert@gmail.com
-  - 🔗: [LinkedIn's profile](https://www.linkedin.com/in/gilbert-guszcza-a9267a23b/)
+### 📫 How to reach me
+- 📧 Email: guszczagilbert@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/gilbert-guszcza-a9267a23b](https://www.linkedin.com/in/gilbert-guszcza-a9267a23b)
 
-I've been on a few gamejams and this is the result:
-  - 🔨: [Kobaltowa przygoda](https://pitahaya-games.itch.io/kobaltowa-przygoda)
-  - 👽: [Demon zza lady](https://pitahaya-games.itch.io/demon-zza-lady)
+---
 
+### 🎮 Game Jam Projects
+I’ve participated in several game jams — here are some of the results:
 
-<!--
-[Test GitHubPage](https://isdre.github.io)
-
-[Z forkowane repozytorium](https://github.com/Isdre/AvalonAssassin)
-
-[Artykuł na papers with code](https://paperswithcode.com/paper/training-an-assassin-ai-for-the-resistance)
-
-**Isdre/Isdre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔨 [**Kobaltowa Przygoda**](https://pitahaya-games.itch.io/kobaltowa-przygoda) — A cobalt-colored adventure!
+- 👽 [**Demon zza lady**](https://pitahaya-games.itch.io/demon-zza-lady) — A quirky horror-comedy game.
